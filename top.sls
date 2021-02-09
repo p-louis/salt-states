@@ -1,0 +1,4 @@
+base:
+  '*':
+    - software
+    - config
